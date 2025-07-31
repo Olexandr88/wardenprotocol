@@ -1,3 +1,5 @@
+[![Twitter](https://img.shields.io/twitter/follow/wardenprotocol)](https://x.com/wardenprotocol)
+
 ![Warden Protocol](./docs/developer-docs/logo.svg)
 
 ## Overview
